@@ -4,6 +4,6 @@
 
 ### A novice Java back-end engineer👨🏻‍💻 
 
-- Read more about my [Blog](https://patrick12138.notion.site/patrick12138/Patrick-s-Blogs-4028349bc14c4c5ea98e05db2dd85980)
-- Contact me by [Email](mailto:xuanweihao@foxmail.com) or [Telegram](https://t.me/Patrick12138)
-- Learning…  😎 Life Goes On 💪
+- 😎 Read more about my [Blog](https://patrick12138.notion.site/patrick12138/Patrick-s-Blogs-4028349bc14c4c5ea98e05db2dd85980)
+- 📫 Contact me by [Email](mailto:xuanweihao@foxmail.com) or [Telegram](https://t.me/Patrick12138)
+- 💪 Life goes on, struggle goes on, keep learning!   
