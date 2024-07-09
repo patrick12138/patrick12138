@@ -5,5 +5,5 @@
 ### A software engineer👨🏻‍💻
 
 - 😎 Read more about my [Blog](https://2pac.notion.site/)
-- 📫 Contact me by [Email](mailto:xuanweihao@foxmail.com) or [Telegram](https://t.me/Patrick12138)
+- 📫 Contact me by  [Telegram](https://t.me/Patrick12138) or [Discord](https://discord.com/users/692627283286163458)
 - 😛 Be happy！
