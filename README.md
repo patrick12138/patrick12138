@@ -5,7 +5,7 @@
 ### A Software Engineer👨🏻‍💻
 📫 Contact me by  [Telegram](https://t.me/Patrick12138) or [Discord](https://discord.com/users/692627283286163458)
 
-#### Tech Stack 💻
+### Tech Stack 💻
 - **Backend**:  
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat&logo=dotnet&logoColor=white) ![ASP NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 - **Frontend**:  
