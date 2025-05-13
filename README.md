@@ -1,8 +1,7 @@
 ## Hi I'm Patrick 👋
 
-<p align="right">
+<p style="display: flex; justify-content: space-between; align-items: flex-start;">
   <img style="max-width: 450px;" src="https://github-readme-stats.vercel.app/api?username=patrick12138&show_icons=true&theme=buefy&include_all_commits=true&hide=contribs,issues" alt="Patrick's GitHub Stats"/>
-  <br/>
   <img style="max-width: 450px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick12138&layout=compact&theme=buefy&langs_count=8&hide_border=true" alt="Patrick's Top Languages"/>
 </p>
 
@@ -40,14 +39,6 @@ Here's a glimpse of the technologies I work with:
 #### 💾 Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-#### 💻 OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-
-#### 🏗️ Development Mode
-![Microservices](https://img.shields.io/badge/Microservices-20232A?style=flat&logo=microservices&logoColor=white)
-![Frontend-Backend Separation](https://img.shields.io/badge/Frontend--Backend%20Separation-20232A?style=flat&logo=web&logoColor=white)
 
 ---
 
