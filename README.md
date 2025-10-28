@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&width=435&lines=Hi+I'm+Patrick)](https://git.io/typing-svg)
 ### 👨🏻‍💻 About Me
 
-Full-stack developer specializing in **JAVA**,**C#** and **Vue.js**, passionate about building scalable enterprise applications and exploring new technologies.
+Full-stack developer interesting in **Java**, **.NET** and **Vue.js**
 
 ### 📫 Contact me
 
