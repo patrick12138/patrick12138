@@ -3,7 +3,7 @@
 
 Full-stack developer interesting in **Java**, **.NET** and **Vue.js**
 
-### 📫 Contact me
+### 📫 Contact Me
 
 **Telegram**: [Patrick12138](https://t.me/Patrick12138)
 
