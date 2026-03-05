@@ -14,15 +14,15 @@ Full-stack developer interesting in **Java**, **.NET** and **Vue.js**
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-wwy.vercel.app/api?username=patrick12138&theme=vue-dark&show_icons=true&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-wwy.vercel.app/api?username=patrick12138&theme=vue&show_icons=true&hide_border=true">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-wwy.vercel.app/api?username=patrick12138&theme=tokyonight&show_icons=true&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-wwy.vercel.app/api?username=patrick12138&theme=tokyonight&show_icons=true&hide_border=true">
           <img src="https://github-readme-stats-wwy.vercel.app/api?username=patrick12138&theme=vue&show_icons=true&hide_border=true">
         </picture>
       </td>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-wwy.vercel.app/api/top-langs/?username=patrick12138&theme=vue-dark&layout=compact&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-wwy.vercel.app/api/top-langs/?username=patrick12138&theme=vue&layout=compact&hide_border=true">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-wwy.vercel.app/api/top-langs/?username=patrick12138&theme=tokyonight&layout=compact&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-wwy.vercel.app/api/top-langs/?username=patrick12138&theme=tokyonight&layout=compact&hide_border=true">
           <img src="https://github-readme-stats-wwy.vercel.app/api/top-langs/?username=patrick12138&theme=vue&layout=compact&hide_border=true">
         </picture>
       </td>
